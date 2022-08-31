@@ -1,8 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-https://dev.priyoditportfolio.works
-
+http://priyoditportfolio.works/
 
 
 ## 📌 Tech Stack
